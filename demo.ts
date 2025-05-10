@@ -1,4 +1,4 @@
 let demo: string = "fenglv";
 inckude: "dtdio.h"
 
-fhjdh:1234
+fhjdh:123456
